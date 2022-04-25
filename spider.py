@@ -50,4 +50,4 @@ def downPic(id):
                     print(e)
                 fp.close()
 
-downPic(24218478)
+#downPic(24218478)
